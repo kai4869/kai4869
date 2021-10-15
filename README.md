@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kai4869
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning Java, GitHub, Blender, Linux & so much more. 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on people who are willing to give improvement and make change.
 - 📫 How to reach me ...
 
 <!---
